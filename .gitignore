@@ -17,3 +17,5 @@ Thumbs.db
 
 # Env
 .env
+
+logs_md_agente/*
